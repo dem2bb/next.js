@@ -1,0 +1,29 @@
+.socialList {
+  list-style: none;
+  display: flex;
+}
+
+.socialItem {
+  margin-right: 12px;
+}
+
+.socialItem:nth-last-child(1) {
+  margin-right: 0;
+}
+
+.headerCont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  font-size: 14px;
+  line-height: 1.21;
+}
+
+.navItem {
+  margin-right: 11px;
+}
+
+.navItem:nth-last-child(1) {
+  margin-right: 0;
+}

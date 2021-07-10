@@ -1,0 +1,37 @@
+.portfolioCont {
+  margin: 0 auto;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.btn {
+  position: absolute;
+  top: 16%;
+  left: 50px;
+  width: 40px;
+  height: 40px;
+  border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+
+  background-color: transparent;
+}
+
+.worksList {
+  margin-left: auto;
+  margin-right: auto;
+  --card-set-item: 2;
+  --gap-top: 100px;
+}
+
+.itemCont {
+  border-bottom: 1px solid #ffffff;
+}
+
+.worksItem {
+}

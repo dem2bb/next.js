@@ -1,0 +1,60 @@
+{
+  "portfolio": [
+    {
+      "id": 1,
+      "title": "IT Fest",
+      "image": "itfest.png",
+      "complexity": "10",
+      "timing": "10"
+    },
+    {
+      "id": 2,
+      "title": "GoIT - Poland",
+      "image": "poland.png",
+      "complexity": "9",
+      "timing": "15"
+    },
+    {
+      "id": 3,
+      "title": "GoIT - Teens",
+      "image": "teens.png",
+      "complexity": "8",
+      "timing": "12"
+    },
+    {
+      "id": 4,
+      "title": "GoIT Web",
+      "image": "web.png",
+      "complexity": "10",
+      "timing": "11"
+    },
+    {
+      "id": 5,
+      "title": "Sharp",
+      "image": "sharp.png",
+      "complexity": "8",
+      "timing": "17"
+    },
+    {
+      "id": 6,
+      "title": "Powerkh",
+      "image": "powerkh.png",
+      "complexity": "10",
+      "timing": "14"
+    },
+    {
+      "id": 7,
+      "title": "Jazz Render",
+      "image": "jazzrender.png",
+      "complexity": "10",
+      "timing": "13"
+    },
+    {
+      "id": 8,
+      "title": "Megafoxy",
+      "image": "megafoxy.png",
+      "complexity": 9,
+      "timing": "12"
+    }
+  ]
+}
